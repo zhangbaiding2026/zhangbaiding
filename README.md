@@ -1,7 +1,7 @@
 # Hi there, I'm Xun 👋
 
 🎓 **Student** based in the Greater Los Angeles Area, CA  
-💻 Passionate about windows, Linux, python, and practical software applications.
+💻 Passionate about Windows, Linux, Python, and practical software applications.
 
 ---
 
